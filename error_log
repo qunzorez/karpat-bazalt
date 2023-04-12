@@ -1,0 +1,4 @@
+[27-Mar-2023 13:56:23 UTC] PHP Warning:  mail() expects at most 5 parameters, 6 given in /home2/karpatba/public_html/send-email2.php on line 16
+[27-Mar-2023 13:56:46 UTC] PHP Warning:  mail() expects at most 5 parameters, 6 given in /home2/karpatba/public_html/send-email2.php on line 16
+[27-Mar-2023 13:58:07 UTC] PHP Warning:  mail() expects at most 5 parameters, 6 given in /home2/karpatba/public_html/send-email2.php on line 16
+[27-Mar-2023 13:59:26 UTC] PHP Warning:  mail() expects at most 5 parameters, 6 given in /home2/karpatba/public_html/send-email2.php on line 16
